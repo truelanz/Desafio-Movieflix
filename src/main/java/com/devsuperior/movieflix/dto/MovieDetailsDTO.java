@@ -1,7 +1,5 @@
 package com.devsuperior.movieflix.dto;
 
-import java.util.Set;
-
 import com.devsuperior.movieflix.entities.Genre;
 import com.devsuperior.movieflix.entities.Movie;
 
