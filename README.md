@@ -1,7 +1,7 @@
 
 ## Desafio MovieFlix para Java Spring Expert devsuperior
 
-![modelo](src\main\resources\images\modelo.png)
+![image](https://github.com/user-attachments/assets/87b2a60a-0a7f-455f-8c55-b354c4f98ee6)
 
 ### _Competências avaliadas:_
 
@@ -36,4 +36,4 @@ Mínimo para aprovação ✅: 12 de 15
 
 Concluídos com sussesso ✅: 15 de 15
 
-![image](src\main\resources\images\image.png)
+![image](https://github.com/user-attachments/assets/dfe00135-7ef9-4b75-80ae-308b8f8b6327)
