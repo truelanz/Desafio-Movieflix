@@ -1,7 +1,19 @@
 
+## Desafio MovieFlix para Java Spring Expert devsuperior
 
+![modelo](src\main\resources\images\modelo.png)
 
-## _Casos de uso do sistema_
+### _Competências avaliadas:_
+
+- Desenvolvimento TDD de API Rest com Java e Spring Boot
+- Realização de casos de uso
+- Consultas a banco de dados relacional com Spring Data JPA
+- Tratamento de erros com respostas HTTP customizadas
+- Controle de acesso por perfil de usuário e rotas
+
+---
+
+### _Casos de uso do sistema_:
 
 >### **Listar filmes:**
 1. Lista de nomes de todos os gêneros. 
@@ -17,3 +29,11 @@
 3. O usuário (membro) informa, opcionalmente, um texto para avaliação do filme.
 4. O sistema apresenta os dados atualizados, já aparecendo também a avaliação feita pelo usuário.
 5. **Exceção** - O sistema apresenta uma mensagem de que não é permitido texto vazio na avaliação.
+
+---
+
+Mínimo para aprovação ✅: 12 de 15
+
+Concluídos com sussesso ✅: 15 de 15
+
+![image](src\main\resources\images\image.png)
